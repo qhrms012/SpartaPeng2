@@ -1,6 +1,8 @@
 # SpartaPeng2
 SpartaProject
 
+예비군 이슈로 인해 구현이 잘되지않았습니다..
+
 Start Scene 닉네임 입력받기
 ![image](https://github.com/qhrms012/SpartaPeng2/assets/122000753/cc4eab15-69c2-4a6d-9620-5b4e5156e89f)
 
